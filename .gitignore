@@ -1,0 +1,5 @@
+/war/gwtnogin
+*.class
+*.cache.js
+war/WEB-INF/deploy/*
+gwt-unitCache/*
